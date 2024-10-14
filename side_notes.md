@@ -16,3 +16,6 @@ difference between =, ==, ===
 
 type casting
     convert a data type of a variable to another data type
+
+SQL 
+    do we have one source of truth?
