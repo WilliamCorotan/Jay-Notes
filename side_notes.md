@@ -13,4 +13,6 @@ Naming Conventions
 difference between =, ==, ===
     = (single equal sign) is the assignment operator
     == (double equal sign) loosely comparison operator
-    
+
+type casting
+    convert a data type of a variable to another data type
